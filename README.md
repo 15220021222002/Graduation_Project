@@ -67,6 +67,13 @@ The API is deployed using **MonstaHost**, with environment variables used to pro
 - Access is secured by user roles (Patient / Doctor / Admin)
 
 ---
+## 📄 API Documentation
+
+You can explore and test all available endpoints using Swagger:
+
+🔗 [Swagger UI](http://dcare.runasp.net/swagger/index.html)
+
+---
 
 ## 👩‍💻 About Me
 
