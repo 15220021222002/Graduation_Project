@@ -78,7 +78,7 @@ You can explore and test all available endpoints using Swagger:
 ## 👩‍💻 About Me
 
 **Shrouk Nasser**  
-Back-End .NET Developer   
+Full Stack .NET Developer   
 📧 shrouk.1522002@gmail.com  
 📍 Cairo, Egypt  
 🔗 [LinkedIn](https://www.linkedin.com/in/shrouk-nasser)  
