@@ -25,13 +25,13 @@ I developed the **entire Back-End** of this project, including:
 - Integrating Stripe for secure payments
 - Handling doctor document/image uploads
 - Managing appointment and payment logic
-- Deploying the API to a live server on **MonstaHost**
+- Deploying the API to a live server on **Monster asp.net Host**
 
 ---
 
 ## 🚀 Deployment
 
-The API is deployed using **MonstaHost**, with environment variables used to protect secrets like Stripe keys and connection strings.
+The API is deployed using **Monster asp.net Host**, with environment variables used to protect secrets like Stripe keys and connection strings.
 
 ---
 
@@ -78,7 +78,7 @@ You can explore and test all available endpoints using Swagger:
 ## 👩‍💻 About Me
 
 **Shrouk Nasser**  
-Back-End .NET Developer – Graduation Project  
+Back-End .NET Developer   
 📧 shrouk.1522002@gmail.com  
 📍 Cairo, Egypt  
 🔗 [LinkedIn](https://www.linkedin.com/in/shrouk-nasser)  
